@@ -450,6 +450,9 @@ body {
     text-align: center;
     color: white;
     font-size: 18px;
+    position: relative;
+    top: 60px;
+}
 }
 .footer span {
     font-weight: bold;
